@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour à tous 😄, bievenue sur mon profil !👋</h1>
+<h1 align="center">Bonjour à tous 😄, bienvenue sur mon profil !👋</h1>
 <h3 align="center">Je suis un étudiant en deuxième année de BTS SIO option SLAM, en France</h4>
 
 - 🔭 Je travaille actuellement sur mon projet personnel **Snake**
