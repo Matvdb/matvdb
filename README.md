@@ -1,12 +1,12 @@
 <h1 align="center">Bonjour à tous 😄, bienvenue sur mon profil !👋</h1>
-<h3 align="center">Je suis un étudiant en deuxième année de BTS SIO option SLAM, en France</h4>
+<h3 align="center">Je suis un étudiant en deuxième année de BTS SIO option SLAM</h4>
 
 - 🔭 Je travaille actuellement sur mon projet personnel **Snake**
 - 🌱 En ce moment, j'apprend **Flutter, JS et Symfony**
 - 💬 Pour plus de questions, contactez moi à **mathieuvanderbregt@gmail.com**
 - ⚡ Mes passions sont **le sport, l'hardware, l'audiovisuel et évidemment le codage**
 
-<h2 align="center">Connectons-nous !😉</h2>
+<h2 align="center">Connectons-nous ?😉</h2>
 
 <p align="center">
 
@@ -19,7 +19,7 @@
 
 </p>
 
-<h2 align="center">Langages et outils utilisés :</h2>
+<h2 align="center">Divers langages utilisés :</h2>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
