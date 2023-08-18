@@ -1,10 +1,10 @@
 <h1 align="center">Bonjour à tous 😄, bienvenue sur mon profil !👋</h1>
 <h3 align="center">Je suis un étudiant en deuxième année de BTS SIO option SLAM</h4>
 
-- 🔭 Je travaille actuellement sur mon projet personnel **Anonymus**
-- 🌱 En ce moment, j'apprend **Flutter, JS et Symfony**
-- 💬 Pour plus de questions, contactez moi à **mathieuvanderbregt@gmail.com**
-- ⚡ Mes passions sont **le sport, l'hardware, l'audiovisuel et évidemment le codage**
+- 🔭 Je travaille actuellement sur un projet nommé **Autour de la Musique - Contact** en collaboration avec <a href="https://autourdelamusiquemanagement.fr/">Autour de la Musique Managment</a>, étant une future application professionnel ayant pour but de favoriser une recherche d'artiste/groupe musical
+- 🌱 En ce moment, j'apprend **Angular** à côté de mon travail principal
+- 💬 Pour plus de questions, contactez moi à **mvanderbregt_pro@outlook.fr**
+- ⚡ Mes passions sont **le sport, l'hardware, l'audiovisuel et le codage**
 
 <h2 align="center">Connectons-nous ?😉</h2>
 
