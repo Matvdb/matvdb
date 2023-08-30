@@ -11,7 +11,7 @@
 <p align="center">
 
   <a href="mailto:mathieuvanderbregt@gmail.com" target="_blank"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3AMicrosoft_Office_Outlook_%25282018%25E2%2580%2593present%2529.svg&psig=AOvVaw36fcmLHRPJNJ05L1aAWFon&ust=1693481708358000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJjj1Y-lhIEDFQAAAAAdAAAAABAD" alt="html5" width="40" height="40" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Foutlook-logo%2F&psig=AOvVaw36fcmLHRPJNJ05L1aAWFon&ust=1693481708358000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJjj1Y-lhIEDFQAAAAAdAAAAABAM" alt="html5" width="40" height="40" />
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.linkedin.com/in/mathieu-vanderbregt-968898239/" target="_blank"> 
