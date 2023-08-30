@@ -11,6 +11,7 @@
 <p align="center">
 
   <a href="mailto:mathieuvanderbregt@gmail.com" target="_blank"> 
+    <i class="bi bi-envelope-open-fill" style="width="40" height="40" ></i>
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.linkedin.com/in/mathieu-vanderbregt-968898239/" target="_blank"> 
