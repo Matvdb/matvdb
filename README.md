@@ -1,8 +1,9 @@
-<h1 align="center">Bonjour à tous 😄, bienvenue sur mon profil !👋</h1>
-<h3 align="center">Je suis un étudiant en deuxième année de BTS SIO option SLAM</h4>
+<h1 align="center">Salut à toi et bienvenue sur mon GitHub ! 😄👋</h1>
+<h3 align="center">Je suis un ancien étudiant en BTS SIO option SLAM</h3>
+<h4 align="center">Ici, tu retrouveras l'intégralité de mes projets perso/pro fini ou en développement !</h4>
 
-- 🔭 Je travaille actuellement sur un projet nommé **AdlM Contact** en collaboration avec <a href="https://autourdelamusiquemanagement.fr/">Autour de la Musique Management</a>, étant une future application professionnel ayant pour but de favoriser une recherche d'artiste/groupe musical
-- 🌱 En ce moment, j'apprend **Angular** à côté de mon travail principal
+- 🔭 Je travaille actuellement sur un projet nommé **GeStock**, c'est un projet perso étant une application de gestion de stock
+- 🌱 **GeSock** est développée avec les languages Dart, Flutter et Symfony
 - 💬 Pour plus de questions, contactez moi à **mvanderbregt_pro@outlook.fr**
 - ⚡ Mes passions sont **le sport, l'hardware, l'audiovisuel et le codage**
 
