@@ -2,10 +2,9 @@
 <h3 align="center">Je suis un ancien étudiant en BTS SIO option SLAM</h3>
 <h4 align="center">Ici, tu retrouveras l'intégralité de mes projets perso/pro fini ou en développement !</h4>
 
-- 🔭 Je travaille actuellement sur un projet nommé **GestIn**, c'est un projet perso étant une application de gestion de stock
+- 🔭 Je travaille actuellement sur **GestIn**, c'est un projet perso étant une application de gestion d'inventaire
 - 🌱 **GestIn** est développée avec les languages Dart, Flutter et Symfony
-- 💬 Pour plus de questions, contactez moi à **mvanderbregt_pro@outlook.fr**
-- ⚡ Mes passions sont **le sport, l'hardware, l'audiovisuel et le codage**
+- 💻 Si tu as besoin d'aide pour l'un de tes projets, n'hésite pas à me contacter : **mvanderbregt_pro@outlook.fr**
 
 <h2 align="center">Connectons-nous ?😉</h2>
 
