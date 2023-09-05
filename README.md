@@ -6,6 +6,8 @@
 - 🌱 **GestIn** est développée avec les languages Dart, Flutter et Symfony
 - 💻 Si tu as besoin d'aide pour l'un de tes projets, n'hésite pas à me contacter : **mvanderbregt_pro@outlook.fr**
 
+<h3 align="text-center">Pour plus d'infos, je t'invite à visiter mon profil ! 😉</h3>
+
 <h2 align="center">Connectons-nous ?😉</h2>
 
 <p align="center">
