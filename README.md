@@ -13,8 +13,8 @@
 
 <h3>🎓 Mes projets du moments 🎓</h3>
 
-- 💼 Je travaille actuellement sur **GestIn**, c'est un projet perso étant une application de gestion d'inventaire
-- 📌 Ce projet connaîtra une version mobile ainsi qu'une version web en cours de développement
+- 💼 Je travaille actuellement sur <a href="https://github.com/Matvdb/GestIn_Web"><strong>GestIn</strong></a>, c'est un projet perso étant une application de gestion d'inventaire
+- 📌 Ce projet connaîtra une version <a href="https://github.com/Matvdb/GestIn_App">mobile</a> ainsi qu'une version <a href="https://github.com/Matvdb/GestIn_Web">web</a> en cours de développement
 - 🌱 **GestIn** est développée avec les languages **Flutter et Symfony** pour la version mobile et **Bootstrap, JavaScript et PHP** pour la version web
 - 💻 Si tu as besoin d'aide pour l'un de tes projets, n'hésite pas à me contacter : **mvanderbregt_pro@outlook.fr**
 <br>
