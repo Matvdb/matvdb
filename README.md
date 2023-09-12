@@ -1,6 +1,6 @@
 <h1 align="center">Salut à toi et bienvenue sur mon profil ! 😄<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ancien+%C3%A9tudiant+BTS+SIO;Technicien+Support+Informatique;D%C3%A9veloppeur+passionn%C3%A9" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/Matvdb/"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ancien+%C3%A9tudiant+BTS+SIO;Technicien+Support+Informatique;D%C3%A9veloppeur+passionn%C3%A9" alt="Typing SVG" /></a></a>
 </p>
 
 <p align="center">
@@ -27,13 +27,17 @@
 </summary>
    <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+<code><a href="https://jquery.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://www.php.net/" targer="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="https://dart.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/fr/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a></code>
+<code><a href="https://symfony.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg"></a></code>
   
 </details>
 <br>
@@ -43,14 +47,9 @@
   🌱 Langages de développement que j'envisage d'apprendre :
 </summary>
    <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<code><a href="https://kotlinlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></a></code>
+<code><a href="https://laravel.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></a></code>
+<code><a href="https://www.java.com/fr/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 </details>
 <br>
 
