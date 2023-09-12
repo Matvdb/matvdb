@@ -61,10 +61,10 @@
 </summary>
 <br>
 <p align="center">
-  <a href="https://github.com/Ratheshan03">
+  <a href="https://github.com/Matvdb">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Matvdb&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/Ratheshan03">
+  <a href="https://github.com/Matvdb">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matvdb&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
@@ -75,7 +75,6 @@
 
 <h2 align="center">Connectons nous ! 😉<h2>
   </hr>
-  <p align="center">
     <a href="https://www.linkedin.com/in/mathieu-vanderbregt/">
      <img align="left" alt=" Mathieu Vanderbregt - Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
     </a>
@@ -85,6 +84,5 @@
      <a href="https://github.com/Matvdb">
       <img align="left" alt="Mathieu Vanderbregt - Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
     </a>
-    </p>
   <br>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Matvdb&label=Profile%20views&color=0e75b6&style=flat" alt="Mathieu Vanderbregt" /> </p>
