@@ -78,7 +78,7 @@
     <a href="https://www.linkedin.com/in/mathieu-vanderbregt/">
      <img align="left" alt=" Mathieu Vanderbregt - Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
     </a>
-    <a href="mailto:mathieuvanderbregt@gmail.com?subject=subject text">
+    <a href="mailto:mathieuvanderbregt@gmail.com">
       <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
     </a>
      <a href="https://github.com/Matvdb">
