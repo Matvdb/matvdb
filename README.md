@@ -95,6 +95,4 @@
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
-  
-<p align="right" > Créé<a href="https://github.com/Matvdb">Mathieu Vanderbregt</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=Matvdb&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
