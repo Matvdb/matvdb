@@ -75,14 +75,16 @@
 
 <h2 align="center">Connectons nous ! 😉<h2>
   </hr>
-  <a href="https://www.linkedin.com/in/mathieu-vanderbregt/">
-   <img align="left" alt=" Mathieu Vanderbregt - Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:mathieuvanderbregt@gmail.com">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-   <a href="https://github.com/Matvdb">
-    <img align="left" alt="Mathieu Vanderbregt - Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mathieu-vanderbregt/">
+     <img align="left" alt=" Mathieu Vanderbregt - Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+    </a>
+    <a href="mailto:mathieuvanderbregt@gmail.com">
+      <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    </a>
+     <a href="https://github.com/Matvdb">
+      <img align="left" alt="Mathieu Vanderbregt - Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    </a>
+    </p>
   <br>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Matvdb&label=Profile%20views&color=0e75b6&style=flat" alt="Mathieu Vanderbregt" /> </p>
