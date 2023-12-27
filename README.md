@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    Je m'appelle Mathieu Vanderbregt, j'ai 20 ans et je suis un ancien étudiant en BTS SIO option SLAM. Étant passionné par l'informatique, je tiens actuellement le poste de Technicien Support Informatique et je continue de développer/coder divers applications webs/mobiles afin de m'expérimenter au maximum dans ces professions.
+    Je m'appelle Mathieu Vanderbregt, j'ai 20 ans et je suis un ancien étudiant en BTS SIO option SLAM. Étant passionné par l'informatique, je tiens actuellement le poste de Technicien Support Informatique et je continue de développer divers applications webs/mobiles afin de m'expérimenter au maximum dans ces professions.
   <br><br>
   <b><i>--- Ci-dessous mes dernières activités ---</i></b>
   </em>
@@ -13,9 +13,8 @@
 
 <h3>🎓 Mes projets du moments 🎓</h3>
 
-- 💼 Je travaille actuellement sur <a href="https://github.com/Matvdb/GestIn_Web"><strong>Gest<sup>In</sup></strong></a>, c'est un projet perso étant une application de gestion d'inventaire
-- 📌 Ce projet connaîtra une version <a href="https://github.com/Matvdb/GestIn_App">mobile</a> ainsi qu'une version <a href="https://github.com/Matvdb/GestIn_Web">web</a> en cours de développement
-- 🌱 <strong>Gest<sup>In</sup></strong> est développée avec les languages **Flutter et Symfony** pour la version mobile et **Bootstrap, JavaScript et PHP** pour la version web
+- 💼 Je travaille actuellement sur <a href="https://github.com/Matvdb/GestIn_Web"><strong>Gest<sup>In</sup></strong></a>, étant un projet perso, c'est un **Gestionnaire d'Inventaire** en ligne
+- 🌱 <strong>Gest<sup>In</sup></strong> est développée avec les languages **Bootstrap, JavaScript et PHP**
 - 💻 Si tu as besoin d'aide pour l'un de tes projets, n'hésite pas à me contacter : **mvanderbregt_pro@outlook.fr**
 <br>
 
