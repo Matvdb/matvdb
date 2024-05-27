@@ -1,21 +1,23 @@
-<h1 align="center">Salut à toi et bienvenue sur mon profil ! 😄<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello les devs, bienvenue sur mon profil ! 😄<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
   <a href="https://github.com/Matvdb/"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ancien+%C3%A9tudiant+BTS+SIO;Technicien+Support+Informatique;D%C3%A9veloppeur+passionn%C3%A9" alt="Typing SVG" /></a></a>
 </p>
 
 <p align="center">
   <em>
-    Je m'appelle Mathieu Vanderbregt, j'ai 20 ans et je suis un ancien étudiant en BTS SIO option SLAM. Étant passionné par l'informatique, je tiens actuellement le poste de Technicien Support Informatique et je continue de développer divers applications webs/mobiles afin de m'expérimenter au maximum dans ces professions.
+    Je m'appelle Mathieu Vanderbregt, j'ai 21 ans et je suis un ancien étudiant en BTS SIO option SLAM. Étant passionné par l'informatique, je tiens le poste de Technicien Support Informatique depuis 1 an et je continue de développer divers applications webs/mobiles afin de m'expérimenter au maximum dans ces professions.
   <br><br>
   <b><i>--- Ci-dessous mes dernières activités ---</i></b>
   </em>
 </p>
 
-<h3>🎓 Mes projets du moments 🎓</h3>
+<h3 align="center">🎓 L'ACTU 🎓</h3>
 
-- 💼 Je travaille actuellement sur <a href="https://github.com/Matvdb/GestIn_Web"><strong>Gest<sup>In</sup></strong></a>, étant un projet perso, c'est un **Gestionnaire d'Inventaire** en ligne
-- 🌱 <strong>Gest<sup>In</sup></strong> est développée avec les languages **Bootstrap, JavaScript et PHP**
-- 💻 Si tu as besoin d'aide pour l'un de tes projets, n'hésite pas à me contacter : **mvanderbregt_pro@outlook.fr**
+- 💼 Je me forme et réalise diverses animations en **HTML CSS JS** afin de m'expérimenter dans cette spécifité ainsi que de permettre aux plus jeunes d'apprendre et de comprendre plus facilement certains aspects du front-end
+- 🎬 Je réalise des tutoriels vidéos, des astuces, du partage de code et divers autres concepts autour de la programmation sur 2 plateformes : YouTube et Tiktok
+  <br><p align="center">👇Liens dispos ci-dessous si ça t'intéresse👇<br></p>
+- 💻 Je te propose également une aide supplémentaire sur tes projets si nécessaire : point de vu extérieur, partage de code, explication ...
+  <br> <p align="center">N'hésite pas à me contacter si nécessaire : **mathdev.pro@gmail.com**</p>
 <br>
 
 ---
@@ -72,16 +74,24 @@
 
 ---
 
-<h2 align="center">Connectons nous ! 😉<h2>
+<h2 align="center">Partageons nos idées ! 🤝<h2>
   </hr>
+  <p align="center">
     <a href="https://www.linkedin.com/in/mathieu-vanderbregt/">
-     <img align="left" alt=" Mathieu Vanderbregt - Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+     <img align="center" alt=" Mathieu Vanderbregt - Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
     </a>
-    <a href="mailto:mathieuvanderbregt@gmail.com">
-      <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <a href="mailto:mathdev.pro@gmail.com">
+      <img align="center" alt="Mathieu Vanderbregt | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
     </a>
      <a href="https://github.com/Matvdb">
-      <img align="left" alt="Mathieu Vanderbregt - Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+      <img align="center" alt="Mathieu Vanderbregt - Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    </a>
+    <a href="https://www.youtube.com/@devworldoff">
+      <img align="center" alt="DevWorld - Youtube" width="70px" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" />
+    </a>
+    <a href="https://www.tiktok.com/@devworldoff">
+      <img align="center" alt="DevWorld - Tiktok" width="70px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
     </a>
   <br>
+  </p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Matvdb&label=Profile%20views&color=0e75b6&style=flat" alt="Mathieu Vanderbregt" /> </p>
