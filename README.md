@@ -14,7 +14,7 @@
 <h3 align="center">🎓 L'ACTU 🎓</h3>
 
 - 💼 Je me forme et réalise diverses animations en **HTML CSS JS** afin de m'expérimenter dans cette spécifité ainsi que de permettre aux plus jeunes d'apprendre et de comprendre plus facilement certains aspects du front-end
-- 🎬 Je réalise des tutoriels vidéos, des astuces, du partage de code et divers autres concepts autour de la programmation sur 2 plateformes : YouTube et Tiktok
+- 🎬 Je réalise des tutoriels vidéos, des astuces, du partage de code et divers autres concepts autour de la programmation sur 2 plateformes : <a href="https://www.youtube.com/@devworldoff">YouTube</a> et <a href="https://www.tiktok.com/@devworldoff">Tiktok</>
   <br><p align="center">👇Liens dispos ci-dessous si ça t'intéresse👇<br></p>
 - 💻 Je te propose également une aide supplémentaire sur tes projets si nécessaire : point de vu extérieur, partage de code, explication ...
   <br> <p align="center">N'hésite pas à me contacter si nécessaire : **mathdev.pro@gmail.com**</p>
