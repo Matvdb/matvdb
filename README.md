@@ -5,12 +5,14 @@
 
 <p align="center">
   <em>
-    Je m'appelle Mathieu Vanderbregt, j'ai 21 ans et je suis un ancien étudiant en BTS SIO option SLAM. Étant passionné par l'informatique, je tiens le poste de Technicien Support Informatique depuis 1 an et je continue de développer divers applications webs/mobiles afin de m'expérimenter au maximum dans ces professions.
+    On m'appelle DevWorld par pseudonyme, j'ai 21 ans et je suis un ancien étudiant en BTS SIO option SLAM. Étant passionné par l'informatique, je tiens le poste de Technicien Support Informatique depuis 1 an et je continue de développer divers applications webs/mobiles afin de m'expérimenter au maximum dans ces professions.
+    <br><br>
+    J'ai créé en Janvier 2024 <strong>DevWorld</strong> étant une chaîne de création de contenu disponible sur une multitude de plateforme.<br>
+    Un seul objectif : <strong>Rendre la programmation compréhensible et accessible pour tous !</strong>
   <br><br>
   <b><i>--- Ci-dessous mes dernières activités ---</i></b>
   </em>
 </p>
-
 <h3 align="center">🎓 L'ACTU 🎓</h3>
 
 - 💼 Je me forme et réalise diverses animations en **HTML CSS JS** afin de m'expérimenter dans cette spécifité ainsi que de permettre aux plus jeunes d'apprendre et de comprendre plus facilement certains aspects du front-end
