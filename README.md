@@ -1,6 +1,6 @@
 <h1 align="center">Hello les devs, bienvenue sur mon profil ! 😄<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
-  <a href="https://github.com/Matvdb/"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=435&lines=Ancien+%C3%A9tudiant+BTS+SIO+SLAM;Technicien+Support+Informatique;Cr%C3%A9ation+de+vid%C3%A9os+dev" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/Matvdb/"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ancien+%C3%A9tudiant+BTS+SIO;Technicien+Support+Informatique;Cr%C3%A9ation+de+vid%C3%A9os+dev" alt="Typing SVG" /></a>  
 </p>
 
 <p align="center">
